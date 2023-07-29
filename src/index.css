@@ -146,7 +146,7 @@ background-color: #000;
 
 .parallax {
 	/* The image used */
-	background-image: url("./public/despoina.jpg");
+	background-image: url("./resources/despoina.jpg");
   
 	/* Set a specific height */
 	min-height: 500px;

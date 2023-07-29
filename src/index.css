@@ -73,7 +73,7 @@ background-color: #000;
 	max-width: 80%;
 	margin: auto;
 	height: 80%;
-	background-image: url("../public/despoina.jpg");
+	background-image: url("./resources/despoina.jpg");
 }
 
 .firsthalf {

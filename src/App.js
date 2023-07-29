@@ -28,8 +28,8 @@ function App() {
 						</h1>
 						<p class="text-small">
 							Hi I'm Dena.  In my spare time I pretend to sing and dance.
-              I like cows very much.
-              Also, I am getting married.
+              				I like cows very much.
+              				Also, I am getting married.  And I am a Ppinalien.
 						</p>
 					</div>
 				</div>

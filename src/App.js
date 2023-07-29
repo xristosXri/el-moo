@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-  let audio = new Audio("/moo.wav")
+  let audio = new Audio("./public/moo.wav")
 
   const start = () => {
     audio.play()
